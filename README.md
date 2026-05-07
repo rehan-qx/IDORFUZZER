@@ -226,5 +226,12 @@ MIT License - See LICENSE file for details
 
 - [IDOR Complete Guide](IDOR_Complete_Guide.md) - Comprehensive IDOR documentation
 - [OWASP IDOR](https://owasp.org/www-community/attacks/Insecure_Direct_Object_References)
+---
+
+### 📢 Stay Updated
+Join our WhatsApp channel for daily cyber updates, vulnerability write-ups, and security news!
+
+👉 **[Join Our WhatsApp Channel](https://whatsapp.com/channel/0029Vb5n1UC7oQhYnrlUBD26)**
 
 ---
+*Maintained by **Muhammad Rehan Afzal** | Founder, TeamCyberOps*
